@@ -1,1 +1,2 @@
-print ('Mi aplicion')
+print ('Mi aplicacion')
+print ('error catastrofico')
